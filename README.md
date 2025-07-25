@@ -1,8 +1,8 @@
-# 🚀 CrowdTank - Blockchain-based Crowdfunding Platform
+#  CrowdTank - Blockchain-based Crowdfunding Platform
 
-> 🎓 Internship Task for Nullclass - Blockchain Internship  
-> 🧑‍💻 Developed by: Domakonda Anirudh (CMR College of Engineering and Technology)  
-> 🗓️ Submitted on: [Insert Date]
+>  Internship Task for Nullclass - Blockchain Internship  
+>  Developed by: Domakonda Anirudh (CMR College of Engineering and Technology)  
+>  Submitted on: [25-07-2025]
 
 ---
 
