@@ -92,21 +92,6 @@ ETHERSCAN_API_KEY=your_etherscan_api_key
 bash
 Copy
 Edit
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/nullclass-blockchain-internship
-
-# Navigate into project
-cd nullclass-blockchain-internship
-
-# Install dependencies
-npm install
-
-# Compile contracts
-npx hardhat compile
-
-# Run deployment
-npx hardhat run scripts/deploy.js --network sepolia
-
 
 # Clone the repo
 git clone https://github.com/YOUR_USERNAME/nullclass-blockchain-internship
@@ -122,3 +107,4 @@ npx hardhat compile
 
 # Run deployment
 npx hardhat run scripts/deploy.js --network sepolia
+
